@@ -150,7 +150,7 @@ footer a:hover {
 
     /* Cambia el tamaño de la imagen al pasar el mouse sobre ella */
     .Mensaje_bienvenida img:hover {
-        transform: scale(1.1); /* Aumenta el tamaño de la imagen al 110% */
+        transform: scale(1.7); /* Aumenta el tamaño de la imagen al 110% */
     }
 #productos {
         text-align: center;
